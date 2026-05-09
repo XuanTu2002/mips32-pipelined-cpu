@@ -9,6 +9,4 @@ Mọi người phải lưu file đúng chỗ, tuyệt đối không vứt file l
 * `tb/`: Chứa code Testbench (Môi trường test để cấp điện và xung nhịp cho chip hoạt động).
 * `waves/`: Chứa các file cấu hình màn hình hiển thị sóng của GTKWave.
 * `README.md`: Chính là file bạn đang đọc.
-* `CONTEXT.md`: File quy ước kiến trúc kỹ thuật dành cho AI Agents.
-
 ---
