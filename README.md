@@ -1,6 +1,6 @@
-# 🚀 Dự án Cuối kỳ MI4344: Vi xử lý MIPS 32-bit Pipelined (5 Tầng)
+# Dự án Cuối kỳ MI4344: Vi xử lý MIPS 32-bit Pipelined (5 Tầng)
 
-## 📁 PHẦN 1: CẤU TRÚC THƯ MỤC CỦA NHÓM
+## PHẦN 1: CẤU TRÚC THƯ MỤC CỦA NHÓM
 
 Mọi người phải lưu file đúng chỗ, tuyệt đối không vứt file lung tung ra ngoài.
 
